@@ -5,9 +5,8 @@ import ToastMessage from './components/Common/ToastMessage.vue';
 </script>
 
 <template>
-  <ToastMessage/>
+  <div>asfadfksdsdfj</div>
+  <ToastMessage />
 </template>
 
-<style>
-
-</style>
+<style></style>
